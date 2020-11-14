@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "rxjs-practice"
+  "defaultProject": "rxjs-practice",
+  "cli": {
+    "analytics": false
+  }
 }
